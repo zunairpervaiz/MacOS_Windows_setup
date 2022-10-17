@@ -24,7 +24,7 @@ https://www.python.org/downloads/release/python-370/
 
 7: Unzip VMware Unlocker and open its folder. Goto "win-install.cmd" file and run it as administrator.
 
-8: Wait till it  finish processing
+8: Wait till it finish processing
 
 9: Follow the processes in the video.
 
