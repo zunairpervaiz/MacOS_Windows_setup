@@ -3,14 +3,22 @@ How to run MacOS on Windows using VMware Guide
 
 Please follow all the steps:
 
-1: Download VMware for Windows from the following link:
-https://www.vmware.com/latam/products/workstation-pro/workstation-pro-evaluation.html
+1: Download MacOS Catalina from the following link:
 
-2: Download MacOS Catalina (or any version you want) from the following link:
-You can choose between Mediafire or Mega to download from.
-
-Mediafire: https://www.mediafire.com/file/9n6uypybj8cl3k8/macOS+Catalina+ISO+10.15.7+by+techrechard.com.iso/file
-Mega: https://mega.nz/file/Lu5WyKCY#NwiMf2xPhYqCKMLpBU6y9Eew-6BaCs0vGHdIEyJ4Vnc
+Single Link Download:
+-----------------------------------------------------------------------
+https://www.mediafire.com/file/cgvvab76xbbdroi/macOS+Catalina+10.15.6+Package.rar/file
+-----------------------------------------------------------------------
+1GB Parts : 
+-----------------------------------------------------------------------
+Part 1 : https://mega.nz/file/ragRyBqb#sUpacIuH6zhTDRvtg3Jma57k7cHVKVqzRTKbGVC87TA
+Part 2 : https://mega.nz/file/LXwjCDCK#x-APIyYUUGwDmyjB3iaNKqD3c-CZAFeZh_WixrAtDdc
+Part 3 : https://mega.nz/file/PCg3SDBY#42ZkKUeMVl6sKFlzfDa1JbygAWUBJOiiQOOGdFjrhRA
+Part 4 : https://mega.nz/file/3GgXxJJQ#YnEDPyIsC61TfANNZLX0d-tAh7muI2DeMEQNKYKxzqY
+Part 5 : https://mega.nz/file/XaxBnJjC#gT1DeJhdF5RlVDz5xUPR3hh0AayDmxlg82Ffvsl5Qro
+Part 6 : https://mega.nz/file/jeoBiThQ#WuF1BSBJlwncsYIi86qEL_LHgSNEgEHEcCpFTNGVnvk
+Part 7 : https://mega.nz/file/LS5xUTQT#JpRIDqUG0N0uicB5AG91FesPLf7Tv2iDQ3ChwnII2P4
+Part 8 : https://mega.nz/file/2D5VGRLA#SM8suI-58n6txA4GjQDpX8R_T_dZtxvUHTwqHs31_fs
 
 3: Download VMware Unlocked:
 https://github.com/paolo-projects/unlocker
